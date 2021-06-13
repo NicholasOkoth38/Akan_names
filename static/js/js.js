@@ -41,6 +41,7 @@ const femaleAkanNames = [
       yearOfBirth -= 1;
     }
   
+    
     zeroBasedCentury = parseInt(yearOfBirth / 100);
     yearOfCentury = yearOfBirth % 100;
   
@@ -68,7 +69,7 @@ const femaleAkanNames = [
     } else {
       alert("Your Akan Name is: " + femaleAkanNames[dayOfWeek]);
     }
-    
+
     // To end with the values
     return false;
   }
