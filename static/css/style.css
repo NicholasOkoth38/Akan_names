@@ -27,7 +27,7 @@ body{
     border: 2px solid #3498db;
     transition: 0.25s;
 }
-/*--------The generate button style--------*/
+/*--------The generate button style---------*/
 
 .button{
     border: 0;
@@ -41,5 +41,5 @@ body{
     color: antiquewhite;
     border-radius: 24px;
     transition: 0.25s;
-    
+
 }
