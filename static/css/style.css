@@ -1,0 +1,43 @@
+/*--------whole body part---------*/
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background:linear-gradient(-135deg, #c850c0, #4158d0)
+}
+/*--------Form styling---------*/
+
+.outputs-wrapper h2{
+    color: whitesmoke;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.outputs-wrapper{
+    width: 300px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: #191919;
+    text-align: center;
+    border-radius: 24px;
+    border: 2px solid #3498db;
+    transition: 0.25s;
+}
+/*--------The generate button style---------*/
+
+.button{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #2ecc;
+    padding: 14px 40px;
+    outline: none;
+    color: antiquewhite;
+    border-radius: 24px;
+    transition: 0.25s;
+}
