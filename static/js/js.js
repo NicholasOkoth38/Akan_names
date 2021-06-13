@@ -68,6 +68,7 @@ const femaleAkanNames = [
     } else {
       alert("Your Akan Name is: " + femaleAkanNames[dayOfWeek]);
     }
+    
     // To end with the values
     return false;
   }
