@@ -18,7 +18,7 @@
     - Choose what gender I am.
     - Click the submit button to see what my Akan name would be
 
-    
+
 ## Live link
     Deployed project can be accessed here -  [Akan Names Generator](https://gmaroko.github.io/akan-name/)
 
@@ -26,6 +26,7 @@
     - HTML
     - CSS
     - JS
+  
   
 ## Contact information
     - Email:nicholasko38@gmail.com
