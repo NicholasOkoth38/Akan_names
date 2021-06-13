@@ -20,7 +20,7 @@
     - Click the submit button to see what my Akan name would be
 
 ## Live link
-    Deployed project can be accessed here -  [Akan Names Generator](https://gmaroko.github.io/akan-name/)
+    Deployed project can be accessed here -  [Akan Names Generator](https://github.com/NicholasOkoth38/Akan_names)
 
 ## Technologies used
     - HTML
