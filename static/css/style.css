@@ -12,7 +12,6 @@ body{
     text-transform: uppercase;
     font-weight: 300;
 }
-
 .outputs-wrapper{
     width: 300px;
     padding: 40px;
@@ -26,7 +25,7 @@ body{
     border: 2px solid #3498db;
     transition: 0.25s;
 }
-/*--------The generate button style---------*/
+/*--------The generate button style--------*/
 
 .button{
     border: 0;
