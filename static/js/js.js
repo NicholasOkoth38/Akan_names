@@ -1,4 +1,5 @@
 // The lists of days from Sunday
+
 const femaleAkanNames = [
     "Ama",
     "Akosua",
