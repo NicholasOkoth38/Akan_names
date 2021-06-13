@@ -3,7 +3,6 @@
 
 ## Project description
     - Generate Akan names
-  
 
 ## Author(s) information
     - Nicholas Owino
